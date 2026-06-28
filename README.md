@@ -57,7 +57,7 @@ The dataset contains information about:
 ## How to Run
 1. Clone this repository
    ```
-   git clone https://github.com/bhavyanagpal24/telco-customer-churn-analysis.git
+   git clone https://github.com/bhavyanagpal24/Customer-Churn-Analysis.git
    ```
 2. Open `Customer_Churn_Analysis.ipynb` in Jupyter Notebook, JupyterLab, or Google Colab
 3. Make sure `Telco_customer_churn.csv` is in the same folder as the notebook
